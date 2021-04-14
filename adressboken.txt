@@ -1,0 +1,7 @@
+Shaghayegh,Sigtunagränd,000,Väsby,0987654321,shaghayegh@yahoo.com
+Kalle,Tunavägen,23456,Solna,0987678965,kalle@hotmail.com
+Stina,Ljungvägen,34567,Stockholm,0123456789,stina@yahoo.se
+Stina,avägen,12345,Hässelby,0987656789,stina@gmail.com
+Anna,starvägen,87888,Odenplan,0798765456,anna.za@gmail.com
+Shohre,avägen,12345,Solna,0987654321,shagha@yahoo.com
+Ali,asdfg,111,Stockholm,0793072121,ali@yahoooo.com
